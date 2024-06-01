@@ -1,0 +1,32 @@
+{
+    "NAVBAR": {
+        "HOME": "Inicio",
+        "ABOUT_US": "Sobre Nosotros",
+        "SERVICES": "Servicios",
+        "CONTACT_US": "Contáctenos"
+    },
+    "HOME": {
+        "TITLE": "Bienvenido a Nuestra Página de Inicio",
+        "DESCRIPTION": "Esta es una descripción de la página de inicio en español."
+    },
+    "CONTACT": {
+        "TITLE": "Contáctenos",
+        "SUBTITLE": "Conecta con Nosotros y Transforma tu Presencia Digital.",
+        "FORM": {
+            "EMAIL_LABEL": "Su Correo Electrónico",
+            "EMAIL_PLACEHOLDER": "user@example.com",
+            "SUBJECT_LABEL": "Asunto",
+            "SUBJECT_PLACEHOLDER": "Déjenos saber el motivo de su mensaje",
+            "MESSAGE_LABEL": "Su Mensaje",
+            "MESSAGE_PLACEHOLDER": "Escriba su mensaje o pregunta aquí",
+            "SEND_BUTTON": "Enviar Mensaje"
+        }
+    },
+    "FOOTER": {
+        "LEGAL": "Información Legal",
+        "COPYRIGHT": "Todos los Derechos Reservados.",
+        "PRIVACY_POLICY": "Política de Privacidad",
+        "TERMS_OF_SERVICE": "Términos de Servicio",
+        "FALLOW_US": "Síguenos en"
+    }
+}

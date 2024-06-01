@@ -1,0 +1,32 @@
+{
+    "NAVBAR": {
+        "HOME": "Home",
+        "ABOUT_US": "About Us",
+        "SERVICES": "Services",
+        "CONTACT_US": "Contact Us"
+    },
+    "HOME": {
+        "TITLE": "Welcome to Our Landing Page",
+        "DESCRIPTION": "This is a landing page description in English."
+    },
+    "CONTACT": {
+        "TITLE": "Contact Us",
+        "SUBTITLE": "Connect with Us and Transform Your Digital Presence",
+        "FORM": {
+            "EMAIL_LABEL": "Your Email",
+            "EMAIL_PLACEHOLDER": "user@example.com",
+            "SUBJECT_LABEL": "Subject",
+            "SUBJECT_PLACEHOLDER": "Let us know how we can help you",
+            "MESSAGE_LABEL": "Your Message",
+            "MESSAGE_PLACEHOLDER": "Leave a comment or question here",
+            "SEND_BUTTON": "Send Message"
+        }
+    },
+    "FOOTER": {
+        "LEGAL": "Legal",
+        "COPYRIGHT": "All Rights Reserved.",
+        "PRIVACY_POLICY": "Privacy Policy",
+        "TERMS_OF_SERVICE": "Terms of Service",
+        "FALLOW_US": "Fallow Us"
+    }
+}
