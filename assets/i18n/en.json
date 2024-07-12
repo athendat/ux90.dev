@@ -6,8 +6,44 @@
         "CONTACT_US": "Contact Us"
     },
     "HOME": {
-        "TITLE": "Welcome to Our Landing Page",
-        "DESCRIPTION": "This is a landing page description in English."
+        "WHO": "We are a very dedicated team",
+        "TITLE": "We are a full-service digital agency",
+        "DESCRIPTION": "We collaborate with people, teams, and businesses to develop design systems, strategies, and processes to do a better creative work everyday."
+    },
+    "ABOUT": {
+        "WE": "UX90 Creations Digital Agency",
+        "TITLE1": "Leading Digital",
+        "TITLE2": "Business For",
+        "TITLE3": "Solution.",
+        "DESCRIPTION": "At UX90 Creations, we are dedicated to transforming our clients' digital presence. Based in Florida, we are a team of professionals passionate about digital marketing and the development of web and mobile solutions. Our goal is to help businesses grow and reach their full potential through innovative and personalized strategies."
+    },
+    "SERVICES": {
+        "TITLE": "Our Services",
+        "SUBTITLE": "At UX 90 Creations, we offer a wide range of services designed to propel your business towards digital success:",
+        "MARKETING": {
+            "TITLE": "Digital Marketing",
+            "DESCRIPTION": "We develop personalized digital marketing strategies to increase your online visibility, attract more customers, and improve your ROI. We use advanced SEO, SEM, social media advertising, and content marketing techniques to achieve tangible results."
+        },
+        "DEVELOPMENT": {
+            "TITLE": "Web & Mobile",
+            "DESCRIPTION": "We create custom web and mobile applications tailored to the specific needs of your business. From conceptualization to launch, our team of developers uses the latest technologies to ensure your application is fast, secure, and user-friendly."
+        },
+        "DESIGN": {
+            "TITLE": "UX / UI Design",
+            "DESCRIPTION": "We design intuitive and attractive user experiences that enhance customer interaction with your brand. Our focus on UX/UI design ensures that every touchpoint is visually appealing and functional, providing an exceptional user experience."
+        }
+    },
+    "DEVELOPMENT_SERVICE": {
+        "TITLE": "Web and mobile development",
+        "TITLE1": "Analyze your entire market",
+        "TITLE2": "pricing & stock availability",
+        "DESCRIPTION": "We collaborate with people, teams, and businesses to develop design systems, strategies, and processes to do a better creative work everyday."
+    },
+    "FREELANCE": {
+        "TITLE": "Available for freelance projects",
+        "TITLE1": "Do you have digital project?",
+        "TITLE2": "Let's talk.",
+        "DESCRIPTION": "Ready to take your business to the next level? We're here to help! Get in touch with us to discuss how we can collaborate and grow your digital presence."
     },
     "CONTACT": {
         "TITLE": "Contact Us",

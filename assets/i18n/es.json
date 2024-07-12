@@ -6,8 +6,44 @@
         "CONTACT_US": "Contáctenos"
     },
     "HOME": {
-        "TITLE": "Bienvenido a Nuestra Página de Inicio",
-        "DESCRIPTION": "Esta es una descripción de la página de inicio en español."
+        "WHO": "Somos un equipo muy dedicado",
+        "TITLE": "Una agencia digital con todos los servicios",
+        "DESCRIPTION": "Colaboramos con personas, equipos y empresas para desarrollar sistemas, estrategias y procesos de diseño para realizar un mejor trabajo creativo cada día."
+    },
+    "ABOUT": {
+        "WE": "Agencia Digital UX90 Creations",
+        "TITLE1": "Empresa digital",
+        "TITLE2": "líder en",
+        "TITLE3": "Soluciones.",
+        "DESCRIPTION": "En UX90 Creations, estamos dedicados a transformar la presencia digital de nuestros clientes. Con sede en Florida, somos un equipo de profesionales apasionados por el marketing digital y el desarrollo de soluciones web y móviles. Nuestro objetivo es ayudar a las empresas a crecer y alcanzar su máximo potencial a través de estrategias innovadoras y personalizadas."
+    },
+    "SERVICES": {
+        "TITLE": "Nuestros Servicios",
+        "SUBTITLE": "En UX 90 Creations, ofrecemos una amplia gama de servicios diseñados para impulsar su negocio hacia el éxito digital:",
+        "MARKETING": {
+            "TITLE": "Marketing Digital",
+            "DESCRIPTION": "Desarrollamos estrategias personalizadas de marketing digital para aumentar su visibilidad en línea, atraer más clientes y mejorar su retorno de inversión. Utilizamos técnicas avanzadas de SEO, SEM, publicidad en redes sociales y marketing de contenido para lograr resultados tangibles."
+        },
+        "DEVELOPMENT": {
+            "TITLE": "Desarrollo Web y Móvil",
+            "DESCRIPTION": "Creamos aplicaciones web y móviles personalizadas adaptadas a las necesidades específicas de su negocio. Desde la conceptualización hasta el lanzamiento, nuestro equipo de desarrolladores utiliza las últimas tecnologías para garantizar que su aplicación sea rápida, segura y fácil de usar."
+        },
+        "DESIGN": {
+            "TITLE": "Diseño UX / UI",
+            "DESCRIPTION": "Diseñamos experiencias de usuario intuitivas y atractivas que mejoran la interacción del cliente con su marca. Nuestro enfoque en el diseño UX/UI asegura que cada punto de contacto sea visualmente atractivo y funcional, brindando una experiencia de usuario excepcional."
+        }
+    },
+    "DEVELOPMENT_SERVICE": {
+        "TITLE": "Desarrollo web y móvil",
+        "TITLE1": "Analiza todo tu mercado",
+        "TITLE2": "precios y disponibilidad de stock",
+        "DESCRIPTION": "Colaboramos con personas, equipos y empresas para desarrollar sistemas, estrategias y procesos de diseño para realizar un mejor trabajo creativo cada día."
+    },
+    "FREELANCE": {
+        "TITLE": "Disponible para proyectos freelance",
+        "TITLE1": "¿Tienes un proyecto digital?",
+        "TITLE2": "Hablemos.",
+        "DESCRIPTION": "¿Listo para llevar tu negocio al siguiente nivel? ¡Estamos aquí para ayudarte! Ponte en contacto con nosotros para discutir cómo podemos colaborar y hacer crecer tu presencia digital."
     },
     "CONTACT": {
         "TITLE": "Contáctenos",
