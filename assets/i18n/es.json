@@ -24,6 +24,10 @@
             "TITLE": "Marketing Digital",
             "DESCRIPTION": "Desarrollamos estrategias personalizadas de marketing digital para aumentar su visibilidad en línea, atraer más clientes y mejorar su retorno de inversión. Utilizamos técnicas avanzadas de SEO, SEM, publicidad en redes sociales y marketing de contenido para lograr resultados tangibles."
         },
+        "COMMUNITY_MANAGER": {
+            "TITLE": "Gestión de la comunidad",
+            "DESCRIPTION": "Gestionamos y optimizamos tus redes sociales para crear una comunidad activa y comprometida. Nuestro equipo de expertos en gestión de comunidades desarrolla contenido relevante, interactúa con su audiencia y fortalece la presencia de su marca en plataformas clave."
+        },
         "DEVELOPMENT": {
             "TITLE": "Desarrollo Web y Móvil",
             "DESCRIPTION": "Creamos aplicaciones web y móviles personalizadas adaptadas a las necesidades específicas de su negocio. Desde la conceptualización hasta el lanzamiento, nuestro equipo de desarrolladores utiliza las últimas tecnologías para garantizar que su aplicación sea rápida, segura y fácil de usar."
@@ -49,8 +53,12 @@
         "TITLE": "Contáctenos",
         "SUBTITLE": "Conecta con Nosotros y Transforma tu Presencia Digital.",
         "FORM": {
+            "NAME_LABEL": "Su Nombre",
+            "NAME_PLACEHOLDER": "Juan Pérez",
             "EMAIL_LABEL": "Su Correo Electrónico",
             "EMAIL_PLACEHOLDER": "user@example.com",
+            "PHONE_LABEL": "Su Teléfono",
+            "PHONE_PLACEHOLDER": "123-456-7890",
             "SUBJECT_LABEL": "Asunto",
             "SUBJECT_PLACEHOLDER": "Déjenos saber el motivo de su mensaje",
             "MESSAGE_LABEL": "Su Mensaje",

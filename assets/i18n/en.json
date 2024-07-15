@@ -24,6 +24,10 @@
             "TITLE": "Digital Marketing",
             "DESCRIPTION": "We develop personalized digital marketing strategies to increase your online visibility, attract more customers, and improve your ROI. We use advanced SEO, SEM, social media advertising, and content marketing techniques to achieve tangible results."
         },
+        "COMMUNITY_MANAGER": {
+            "TITLE": "Community Management",
+            "DESCRIPTION": "We manage and optimize your social media to create an active and engaged community. Our team of community management experts develops relevant content, interacts with your audience, and strengthens your brand's presence on key platforms."
+        },
         "DEVELOPMENT": {
             "TITLE": "Web & Mobile",
             "DESCRIPTION": "We create custom web and mobile applications tailored to the specific needs of your business. From conceptualization to launch, our team of developers uses the latest technologies to ensure your application is fast, secure, and user-friendly."
@@ -49,8 +53,12 @@
         "TITLE": "Contact Us",
         "SUBTITLE": "Connect with Us and Transform Your Digital Presence",
         "FORM": {
+            "NAME_LABEL": "Your Name",
+            "NAME_PLACEHOLDER": "John Doe",
             "EMAIL_LABEL": "Your Email",
             "EMAIL_PLACEHOLDER": "user@example.com",
+            "PHONE_LABEL": "Your Phone",
+            "PHONE_PLACEHOLDER": "123-456-7890",
             "SUBJECT_LABEL": "Subject",
             "SUBJECT_PLACEHOLDER": "Let us know how we can help you",
             "MESSAGE_LABEL": "Your Message",
